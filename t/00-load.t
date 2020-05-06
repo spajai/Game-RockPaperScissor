@@ -7,7 +7,6 @@ use Test::More;
 
 use Game::RockPaperScissor;
 
-plan tests => 4;
 
 BEGIN {
     use_ok( 'Game::RockPaperScissor' ) || print "Bail out!\n";
@@ -40,4 +39,4 @@ my $rps = Game::RockPaperScissor->new();
     is( 0, $rps->get_result( $game3 ), "Tie" );
 }
 
-done_testing(4);
+done_testing();

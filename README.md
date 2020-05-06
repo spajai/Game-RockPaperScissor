@@ -1,5 +1,7 @@
 Game-RockPaperScissor
 
+[![Build Status](https://travis-ci.com/spajai/Game-RockPaperScissor.svg?branch=master)](https://travis-ci.com/spajai/Game-RockPaperScissor)
+
 The README is used to introduce the module and provide instructions on
 how to install the module, any machine dependencies it may have (for
 example C compilers and installed libraries) and any other information
